@@ -1,0 +1,132 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "created_at": "2019-10-21T11:26:49.000Z",
+      "title": "Ruby Can Surprise You",
+      "url": "https://tech.showmax.com/2019/10/how-ruby-can-surprise-you/",
+      "author": "jbrunclik",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571657209,
+      "_tags": [
+        "story",
+        "author_jbrunclik",
+        "story_21310998"
+      ],
+      "objectID": "21310998",
+      "_highlightResult": {
+        "title": {
+          "value": "Ruby Can Surprise You",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://tech.showmax.com/2019/10/how-ruby-can-surprise-you/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "jbrunclik",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 2
+    },
+    {
+      "created_at": "2019-10-21T11:29:18.000Z",
+      "title": "How Startups Fix Their People Problems",
+      "url": "https://medium.com/@jproco/how-startups-fix-their-people-problems-4060553ad653",
+      "author": "jprocopio",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571657358,
+      "_tags": [
+        "story",
+        "author_jprocopio",
+        "story_21311016"
+      ],
+      "objectID": "21311016",
+      "_highlightResult": {
+        "title": {
+          "value": "How Startups Fix Their People Problems",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://medium.com/@jproco/how-startups-fix-their-people-problems-4060553ad653",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "jprocopio",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 3
+    },
+    {
+      "created_at": "2019-10-21T11:19:05.000Z",
+      "title": "Ask HN: Is Raising via SeedInvest Worth It?",
+      "url": null,
+      "author": "artur_makly",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571656745,
+      "_tags": [
+        "story",
+        "author_artur_makly",
+        "story_21310935",
+        "ask_hn"
+      ],
+      "objectID": "21310935",
+      "_highlightResult": {
+        "title": {
+          "value": "Ask HN: Is Raising via SeedInvest Worth It?",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "artur_makly",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
